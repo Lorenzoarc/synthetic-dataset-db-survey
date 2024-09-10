@@ -1,4 +1,14 @@
-# Progetto di Tirocinio - Università di Trento
+# db_survey syntetic dataset 
+by
+Marco Prosperi,
+Lorenzo Orlandi,
+Giulia Bruscagin,
+Daniele Sevengnani,
+Nicola Conci
+
+This work is the result of the collaboration between **Arcoda s.r.l.** and the group **MMLab**
+
+This research is supported by the project **DIMOTY**, funded by the Autonomous Province of Trento under the **LP6/99** framework
 
 ## Ricostruzione 3D da Dataset Sintetici
 
