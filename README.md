@@ -1,4 +1,4 @@
-# db_survey syntetic dataset 
+# db_survey synthetic dataset 
 by
 Marco Prosperi,
 Lorenzo Orlandi,
