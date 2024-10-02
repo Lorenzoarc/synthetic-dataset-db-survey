@@ -28,7 +28,7 @@ Il progetto si divide nelle seguenti sezioni principali:
 
 
 ## Dataset
-Sono stati utilizzati 9 dataset sintetici, ottenuti tramite il [nerf-dataset-creator-plugin](https://github.com/AndreaMas/nerf-dataset-creator-plugin), in particolare 5 outdoor e 4 indoor. Di seguito le informazioni sui dataset.
+Sono stati utilizzati 12 dataset sintetici, ottenuti tramite il [nerf-dataset-creator-plugin](https://github.com/AndreaMas/nerf-dataset-creator-plugin), in particolare 6 outdoor e 6 indoor. Di seguito le informazioni sui dataset.
 
 | Info  | Val |
 |-------------------|-----------------|
