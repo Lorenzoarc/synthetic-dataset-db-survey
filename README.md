@@ -3,7 +3,7 @@ by
 Marco Prosperi,
 Lorenzo Orlandi,
 Giulia Bruscagin,
-Daniele Sevengnani,
+Daniele Sevegnani,
 Nicola Conci
 
 This work is the result of the collaboration between **Arcoda s.r.l.** and the group **MMLab**
